@@ -1,3 +1,3 @@
 # PUSHSWAP
 
-Проект на языке С по реализации алгоритма сортировки, используя только два стэка a и b
+Realization of PUSH SWAP algorithm on C languague
